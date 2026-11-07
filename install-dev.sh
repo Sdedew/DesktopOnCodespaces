@@ -1,4 +1,4 @@
-git clone https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces -b dev
+1   1111    11  1                   1   111git clone https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces -b dev
 cd DesktopOnCodespaces
 pip install textual
 sleep 2

@@ -6,8 +6,7 @@ contact_links:
 
   - name: Discourse discussion forum
     url: https://discourse.linuxserver.io
-    about: Post on our community forum.
-
+    about: r Post on our community forum.
   - name: Documentation
     url: https://docs.linuxserver.io
     about: Documentation - information about all of our containers.
